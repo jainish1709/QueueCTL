@@ -13,7 +13,7 @@ A production-grade CLI-based background job queue system with worker processes, 
 - **Configuration Management** - Configurable retry count and backoff settings
 - **Clean CLI Interface** - Intuitive commands with helpful output
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
