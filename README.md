@@ -53,7 +53,7 @@ queuectl list
 queuectl dlq list
 ```
 
-## 📦 CLI Commands Reference
+## CLI Commands Reference
 
 ### Job Management
 
@@ -377,7 +377,7 @@ queuectl list
 - **Job Timeout**: 5 minutes
 - **Worker Limit**: 1-10
 
-## 📊 Project Structure
+## Project Structure
 
 ```
 queuectl/
